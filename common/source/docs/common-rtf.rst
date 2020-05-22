@@ -60,6 +60,8 @@ Vehicles from Non-Partners
 * 3DR IRIS from `Northox <https://northox.myshopify.com/collections/frontpage/products/iris-drone>`__
 * 3DR Quad from `DroneFever <http://dronefever.com/product.php?productid=38>`__
 * 3DR Solo from `Amazon <https://www.amazon.com/3DR-Solo-Quadcopter-No-Gimbal/dp/B00ZPM7BOG>`__
+* Alfonce X500 from `Dronotique <https://www.dronotique.fr/produit/alfonce-x500-quadcopter-homologue-dgac-s1-s2-et-s3/>`__
+* Alfonce H960 from `Dronotique <https://www.dronotique.fr/produit/alfonce-h960-drone-homologue-s1-et-s2-12kg/>`__
 
 
 .. note::
